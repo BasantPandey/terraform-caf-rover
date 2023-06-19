@@ -21,3 +21,7 @@
 ![Terminal](./images/zsh.png)
 
 `Please note that these steps assume you have already installed Docker and have basic familiarity with VS Code.`
+
+## Youtube Link
+
+[![Youtube](./images/youtube.png)](https://www.youtube.com/embed/0Pob7_Mf1T0)
