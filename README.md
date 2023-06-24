@@ -22,6 +22,8 @@
 
 `Please note that these steps assume you have already installed Docker and have basic familiarity with VS Code.`
 
-## Youtube Link
+## Youtube Link & Blog
 
 [![Youtube](./images/youtube.png)](https://www.youtube.com/embed/0Pob7_Mf1T0)
+
+[blog](https://chefonthecloud.com/terraform-caf-rover-getting-started)
