@@ -24,4 +24,4 @@
 
 ## Youtube Link
 
-[![Youtube](./images/youtube.png)](https://www.youtube.com/embed/0Pob7_Mf1T0)
+[![Youtube](./images/youtube.png)](https://youtu.be/0Pob7_Mf1T0)
